@@ -222,7 +222,7 @@ The complete design thinking process is captured in a 13-page hand-drawn PDF tha
 
 ```bash
 # Clone the repository
-git clone https://github.com/<your-username>/leadership-portfolio-redesign.git
+git clone https://github.com/<svg-Adnan>/leadership-portfolio-redesign.git
 cd leadership-portfolio-redesign
 
 # Install dependencies
