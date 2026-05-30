@@ -241,7 +241,7 @@ Open [http://localhost:5173](http://localhost:5173) in your browser.
 | Document | Description |
 |----------|-------------|
 | [design-rationale.md](docs/design-rationale.md) | Detailed analysis of design decisions, tradeoffs, and justifications |
-| [submission-summary.md](docs/submission-summary.md) | Assignment submission summary for Internshala |
+
 
 ---
 
